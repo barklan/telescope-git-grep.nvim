@@ -53,4 +53,4 @@ vim.keymap.set(
 
 ## Acknowledgements
 
-This is basically a slightly mod of [telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim).
+This is basically a slightly modified version of [telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim).
